@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7e8a02b9-395c-49af-b62b-41ddb83e4078" name="greenriverdev" url="http://jmcpherson.greenriverdev.com">
+        <fileTransfer host="jmcpherson.greenriverdev.com" port="18765" rootFolder="/home/jmcphers/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="18765" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
